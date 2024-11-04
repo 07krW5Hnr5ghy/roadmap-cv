@@ -44,3 +44,7 @@ git clone <repository-url>
 cd <repository-directory>
 open index.html
 ```
+
+## project url
+
+https://roadmap.sh/projects/single-page-cv
