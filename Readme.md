@@ -47,4 +47,4 @@ open index.html
 
 ## project url
 
-https://roadmap.sh/projects/single-page-cv
+https://github.com/07krW5Hnr5ghy/roadmap-cv
